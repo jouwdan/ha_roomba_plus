@@ -42,7 +42,7 @@
   ],
   "requirements": [
     "roombapy==1.9.1",
-    "roombapy-prime[map]@git+https://github.com/johnnyh1975/roombapy-prime.git@v0.3.0b3"
+    "roombapy-prime[map]@git+https://github.com/jouwdan/roombapy-prime.git@v0.3.0b4-live-map-fix.1"
   ],
   "version": "4.0.0a32",
   "zeroconf": [
